@@ -1,0 +1,105 @@
+{
+    "result": [
+      {
+        "name": "Hutao",
+        "Senjata": "Polearm",
+        "Elemen": "Pyro",
+        "Role": "DPS",
+        "Gender": "Female",
+        "Rate": "Rate Up",
+        "Warna": "Red",
+        "Foto" : "https://api.duniagames.co.id/api/content/upload/file/4442356001673252411.jpg"
+      },
+      {
+        "name": "Qiqi",
+        "Senjata": "Sword",
+        "Elemen": "Cryo",
+        "Role": "Healer",
+        "Gender": "Female",
+        "Rate": "Rate Up",
+        "Warna": "Blue",
+        "Foto": "https://staticg.sportskeeda.com/editor/2021/12/6e23d-16395652329480-1920.jpg"
+      },
+      {
+        "name": "Zhongli",
+        "Senjata": "Polearm",
+        "Elemen": "Geo",
+        "Role": "DPS",
+        "Gender": "Male",
+        "Rate": "Rate Up",
+        "Warna": "Gold",
+        "Foto": "https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2023/08/rekomendasi-Zhongli-genshin-imapct-build-cover.png"
+      },
+      {
+        "name": "Eula",
+        "Senjata": "Claymore",
+        "Elemen": "Cryo",
+        "Role": "DPS",
+        "Gender": "Female",
+        "Rate": "Rate Up",
+        "Warna": "White",
+        "Foto": "https://media-assets-ggwp.s3.ap-southeast-1.amazonaws.com/2023/08/E-30-640x360.jpg"
+      },
+      {
+        "name": "Ganyu",
+        "Senjata": "Bow",
+        "Elemen": "Cryo",
+        "Role": "DPS",
+        "Gender": "Female",
+        "Rate": "Rate Up",
+        "Warna": "Light Blue",
+        "Foto": "https://berita.yodu.id/wp-content/uploads/2021/12/featured.jpeg"
+      },
+      {
+        "name": "Amber",
+        "Senjata": "Bow",
+        "Elemen": "Pyro",
+        "Role": "DPS",
+        "Gender": "Female",
+        "Rate": "Rate Normal",
+        "Warna": "Orange",
+        "Foto": "https://gadgetapa.com/wp-content/uploads/2020/11/Guide-dan-Build-Amber-Genshin-Impact.jpg"
+      },
+      {
+        "name": "Diona",
+        "Senjata": "Bow",
+        "Elemen": "Cryo",
+        "Role": "Healer",
+        "Gender": "Female",
+        "Rate": "Rate Normal",
+        "Warna": "Pink",
+        "Foto": "https://videogames.si.com/.image/t_share/MTk1NDEyNjgxMDczNjk3ODE1/genshin-impact-diona-card-1.png"
+      },
+      {
+        "name": "Klee",
+        "Senjata": "Catalyst",
+        "Elemen": "Pyro",
+        "Role": "DPS",
+        "Gender": "Female",
+        "Rate": "Rate Normal",
+        "Warna": "Yellow",
+        "Foto": "https://www.pockettactics.com/wp-content/sites/pockettactics/2023/07/Genshin-Impact-Klee.jpg"
+      },
+      {
+        "name": "Baizhu",
+        "Senjata": "Catalyst",
+        "Elemen": "Anemo",
+        "Role": "Healer",
+        "Gender": "Male",
+        "Rate": "Rate Normal",
+        "Warna": "Green",
+        "Foto": "https://videogames.si.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cq_auto:good%2Cw_1200/MTk2MTAzNTA1ODkzNjY0Mjg5/genshin-impact-baizhu-card-1.png"
+      },
+      {
+        "name": "Kaeya",
+        "Senjata": "Sword",
+        "Elemen": "Cryo",
+        "Role": "DPS",
+        "Gender": "Male",
+        "Rate": "Rate Normal",
+        "Warna": "Purple",
+        "Foto": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/genshin-impact/a/a6/Kaeya.jpg"
+      }
+    ]
+  }
+  
